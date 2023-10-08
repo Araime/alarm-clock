@@ -63,7 +63,7 @@ def start():
                 time.sleep(2)
         else:
             alarm_label['text'] = 'Проверьте вводимые данные!'
-    except:
+    except ValueError:
         pass
 
 
