@@ -10,7 +10,7 @@
 ### Скачать
 
 Python3 должен быть уже установлен.
-[Скачать](https://github.com/Araime/Password-Generator/archive/master.zip) этот 
+[Скачать](https://github.com/Araime/alarm-clock/archive/master.zip) этот 
 репозиторий себе на компьютер.
 
 Рекомендуется использовать [virtualenv/venv](https://docs.python.org/3/library/venv.html)
